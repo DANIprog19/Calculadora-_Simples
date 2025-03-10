@@ -19,7 +19,7 @@ import winsound
         messagebox.showinfo("ERRO","VALOR INDIVISÍVEL!")
 ```
 
-Esse projeto foi feito do zero para que seja de código livre para que outros usuários da plataforma ou da rede possam contribuir com seus conhecimentos nele.
+Esse projeto foi feito do zero, com o intuito de ser código livre para que outros usuários da plataforma ou da rede possam contribuir com seus conhecimentos nele.
 
 ## Como Instalar?
 
