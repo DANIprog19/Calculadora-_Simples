@@ -9,7 +9,7 @@ Para usá-la basta importar a sua biblioteca em seu código e abreviar a sua nom
 import tkinter as tk
 ```
 
-Além disso foi usado outras bibliotecas como **messagebox** para a abertura de uma nova janela indicando o erro da divisão por 0, além de usar a biblioteca **winsound** para trazer o som de erro do próprio windows ao abrir a janela de erro da interface, sendo feita assim:
+Além disso foi usado outras bibliotecas como **messagebox** para a abertura de uma nova janela indicando o erro da divisão por 0, além de usar a biblioteca **winsound** para trazer o som de erro do próprio windows ao relatar o erro na divisão dentro da interface, sendo feita assim:
 
 ```python
 from tkinter import messagebox
